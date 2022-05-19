@@ -4,6 +4,6 @@
 
 ###### Links:
 
-* Arquivos HTML/CSS base: http://gitlab.com/karensantos/project-flexbox-dio
+* Arquivos HTML/CSS base: [http://gitlab.com/karensantos/project-flexbox-dio](https://gitlab.com/karensantos/project-flexbox-dio/-/tree/master/flex-projeto)
 
 * Desenvolvimento na plataforma DIO: https://web.dio.me/users/jivago_januario
