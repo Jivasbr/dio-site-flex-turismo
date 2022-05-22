@@ -45,7 +45,8 @@ div img{
     }
 
 header{
-    font-weight: 500;
+    font-size: 12px;
+    font-weight: 600;
     background-color: #102855;
     min-height: 100px;
     display: flex;
@@ -378,7 +379,7 @@ footer .footer{
         .linha::after{
         content: "";
         background-color: #ffffff;
-        width: 200%;
+        width: 170%;
         height: 3px;
         margin-top: 70px;
         align-self: center;
