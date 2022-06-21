@@ -12,4 +12,4 @@
 
 #### Print de tela:
 
-![](C:\workspace\DIO\Projetos\dio-site-flex-turismo\images\print_desktop.png)
+![](images\print_desktop.png)
