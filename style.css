@@ -47,10 +47,10 @@ div img{
 header{
     font-size: 12px;
     font-weight: 600;
-    background-color: #102855;
     min-height: 100px;
     display: flex;
     margin-bottom: 100px;
+    background-color: #102855;
 }
 
 header .list-items{
