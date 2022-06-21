@@ -12,4 +12,4 @@
 
 #### Print de tela:
 
-![](images\print_desktop.png)
+![](images/print_desktop.png)
