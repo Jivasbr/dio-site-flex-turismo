@@ -1,4 +1,4 @@
-### 1º Site desenvolvido com base em modelo do curso de HTML/CSS da DIO.
+### 1º Site desenvolvido com base em modelo do curso de HTML/CSS da DIO. ([Link](https://jivasbr.github.io/dio-site-flex-turismo/))
 
 ###### Primeiros passos em desenvolvimento web com HTML/CSS.
 
